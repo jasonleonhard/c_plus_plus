@@ -1,4 +1,4 @@
-// g++ third.cpp -o third; ./third;
+// cd src; g++ third.cpp -o ../bin/third; third;
 
 #include <iostream>
 using namespace std;

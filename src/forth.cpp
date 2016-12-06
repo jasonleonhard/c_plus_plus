@@ -1,4 +1,4 @@
-// g++ forth.cpp -o forth; ./forth;
+// cd src; g++ forth.cpp -o ../bin/forth; forth;
 
 #include <iostream>
 using namespace std;

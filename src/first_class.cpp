@@ -1,4 +1,4 @@
-// g++ first_class.cpp -o first_class; ./first_class;
+// cd src; g++ first_class.cpp -o ../bin/first_class; first_class;
 
 #include <iostream>
 using namespace std;

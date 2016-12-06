@@ -1,4 +1,4 @@
-// g++ conditional.cpp -o conditional; ./conditional;
+// cd src; g++ conditional.cpp -o ../bin/conditional; conditional;
 
 #include <iostream>
 using namespace std;
